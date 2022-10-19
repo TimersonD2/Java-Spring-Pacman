@@ -5,4 +5,18 @@ body {
 	background-color: black;
 }
 
+.main {
+    margin: 0 auto;
+	display: flex;
+	width: 60rem;
+}
+
+.col {
+	flex: 2;
+}
+
+.login {
+	display: flex;
+	flex-direction: column;
+}
 

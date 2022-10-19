@@ -14,7 +14,7 @@
 <body>
 	<div>
 		<h1>Welcome to Timerson</h1>
-		<button onclick="">Login or Register</button>
+		<button onclick="window.location.href='/login'">Login or Register</button>
 	</div>
 </body>
 </html>
