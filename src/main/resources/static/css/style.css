@@ -5,10 +5,17 @@ body {
 	background-color: black;
 }
 
-.main {
+h1 {
+	text-align: center;
+}
+
+.wrapper {
     margin: 0 auto;
+	width: 800px;
+}
+
+.main {
 	display: flex;
-	width: 60rem;
 }
 
 .col {
